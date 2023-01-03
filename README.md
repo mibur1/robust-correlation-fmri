@@ -4,7 +4,7 @@
 This repository contains a simple Python implementation of the "wrapping" method used in
 
 > Burkhardt, M., Thiel, C. M., & Gießing, C. (2022). Robust Correlation for Link Definition in Resting-State fMRI Brain Networks
-> Can Reduce Motion-Related Artifacts. Brain connectivity, 12(1), 18–25. https://doi.org/10.1089/brain.2020.1005
+> Can Reduce Motion-Related Artifacts. Brain Connectivity, 12(1), 18–25. https://doi.org/10.1089/brain.2020.1005
 
 The method was first published in
 
