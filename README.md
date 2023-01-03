@@ -1,14 +1,15 @@
 ## Robust Correlation for Link Definition in Resting-State fMRI Brain Networks
+[![DOI](https://img.shields.io/badge/DOI-10.1089%2Fbrain.2020.1005-blue)](https://www.liebertpub.com/doi/10.1089/brain.2020.1005)
 
-This repository contains a simple Python implementation of the "wrapping" method used in:
+This repository contains a simple Python implementation of the "wrapping" method used in
 
-Burkhardt M, Giessing C, Thiel CM. 2021. Robust correlation for link definition in rs-fMRI brain networks\
-can reduce motion-related artifacts. Brain Connect. DOI: 10.1089/brain.2020.1005.
+> Burkhardt, M., Thiel, C. M., & Gießing, C. (2022). Robust Correlation for Link Definition in Resting-State fMRI Brain Networks\
+> Can Reduce Motion-Related Artifacts. Brain connectivity, 12(1), 18–25. https://doi.org/10.1089/brain.2020.1005
 
-**The method was first published in:**
+The method was first published in
 
-Raymaekers J, Rousseeuw PJ. 2019. Fast robust correlation for high-dimensional data.\
-Technometrics. DOI: 10.1080/00401706.2019.1677270. https://arxiv.org/abs/1712.05151.
+> Raymaekers J, Rousseeuw PJ. (2021). Fast Robust Correlation for High-Dimensional Data.\
+> Technometrics, 63:2, 184-198. https://doi.org/10.1080/00401706.2019.1677270
 
 and is also accessible through the cellWise R-toolbox:\
 https://cran.r-project.org/web/packages/cellWise/index.html
